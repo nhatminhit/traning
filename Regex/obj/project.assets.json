@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learn\\CTY\\Buoi3\\Regex\\Regex\\RegexValidate.csproj",
+      "projectUniqueName": "C:\\Users\\AN515-57\\Documents\\traning\\Regex\\RegexValidate.csproj",
       "projectName": "RegexValidate",
-      "projectPath": "D:\\Learn\\CTY\\Buoi3\\Regex\\Regex\\RegexValidate.csproj",
+      "projectPath": "C:\\Users\\AN515-57\\Documents\\traning\\Regex\\RegexValidate.csproj",
       "packagesPath": "C:\\Users\\AN515-57\\.nuget\\packages\\",
-      "outputPath": "D:\\Learn\\CTY\\Buoi3\\Regex\\Regex\\obj\\",
+      "outputPath": "C:\\Users\\AN515-57\\Documents\\traning\\Regex\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AN515-57\\AppData\\Roaming\\NuGet\\NuGet.Config",
