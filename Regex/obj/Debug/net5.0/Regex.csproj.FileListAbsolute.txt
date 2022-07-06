@@ -1,0 +1,5 @@
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\Regex.csproj.AssemblyReference.cache
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\Regex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\Regex.AssemblyInfoInputs.cache
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\Regex.AssemblyInfo.cs
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\Regex.csproj.CoreCompileInputs.cache

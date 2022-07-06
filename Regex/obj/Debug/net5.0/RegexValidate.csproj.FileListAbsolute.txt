@@ -1,0 +1,16 @@
+D:\Learn\CTY\Buoi3\Regex\Regex\bin\Debug\net5.0\RegexValidate.exe
+D:\Learn\CTY\Buoi3\Regex\Regex\bin\Debug\net5.0\RegexValidate.deps.json
+D:\Learn\CTY\Buoi3\Regex\Regex\bin\Debug\net5.0\RegexValidate.runtimeconfig.json
+D:\Learn\CTY\Buoi3\Regex\Regex\bin\Debug\net5.0\RegexValidate.runtimeconfig.dev.json
+D:\Learn\CTY\Buoi3\Regex\Regex\bin\Debug\net5.0\RegexValidate.dll
+D:\Learn\CTY\Buoi3\Regex\Regex\bin\Debug\net5.0\ref\RegexValidate.dll
+D:\Learn\CTY\Buoi3\Regex\Regex\bin\Debug\net5.0\RegexValidate.pdb
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\RegexValidate.csproj.AssemblyReference.cache
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\RegexValidate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\RegexValidate.AssemblyInfoInputs.cache
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\RegexValidate.AssemblyInfo.cs
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\RegexValidate.csproj.CoreCompileInputs.cache
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\RegexValidate.dll
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\ref\RegexValidate.dll
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\RegexValidate.pdb
+D:\Learn\CTY\Buoi3\Regex\Regex\obj\Debug\net5.0\RegexValidate.genruntimeconfig.cache
