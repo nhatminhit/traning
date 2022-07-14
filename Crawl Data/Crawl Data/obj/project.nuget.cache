@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9U/s8qe8P+Y2ztz8/K21j2+O8Ue1vGo6CS/oBqigAAlD1GAoRZ6nNvzmmjZzj7U+6IhJLW3mMPbin5q93hRrg==",
+  "success": true,
+  "projectFilePath": "D:\\Learn\\CTY\\Buoi3\\Crawl Data\\Crawl Data\\Crawl Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AN515-57\\.nuget\\packages\\htmlagilitypack\\1.11.37\\htmlagilitypack.1.11.37.nupkg.sha512"
+  ],
+  "logs": []
+}
